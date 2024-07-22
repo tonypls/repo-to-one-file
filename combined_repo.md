@@ -64,7 +64,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="repo-to-one-file",
-    version="0.1.0",
+    version="0.1.1",
     author="Tonypls",
     author_email="tony@appy.co.nz",
     description="A tool to consolidate repository files into a single file",
@@ -100,7 +100,7 @@ setup(
 ```py
 from .__main__ import create_markdown, generate_directory_structure
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ['create_markdown', 'generate_directory_structure']
 
 """
