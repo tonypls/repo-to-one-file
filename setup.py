@@ -11,7 +11,7 @@ setup(
     description="A tool to consolidate repository files into a single file",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/repo-to-one-file",
+    url="https://github.com/tonypls/repo-to-one-file",
     packages=find_packages(exclude=["tests", "tests.*"]),
     classifiers=[
         "Development Status :: 3 - Alpha",
