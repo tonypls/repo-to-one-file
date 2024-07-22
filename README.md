@@ -19,8 +19,6 @@ You can install repo-to-one-file directly from GitHub:
 pip install git+https://github.com/tonypls/repo-to-one-file.git
 ```
 
-````
-
 For development, clone the repository and install in editable mode:
 
 ```bash
@@ -108,5 +106,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was inspired by the need to provide concise codebase overviews for large language models.
 - Thanks to all contributors and users of this tool.
-
-````
