@@ -1,0 +1,2 @@
+[console_scripts]
+repo-to-one-file = repo_to_one_file.__main__:main

@@ -1,3 +1,23 @@
+Metadata-Version: 2.1
+Name: repo-to-one-file
+Version: 0.1.0
+Summary: A tool to consolidate repository files into a single file
+Home-page: https://github.com/yourusername/repo-to-one-file
+Author: tonypls
+Author-email: tony@appy.co.nz
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # repo-to-one-file
 
 repo-to-one-file is a Python tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.

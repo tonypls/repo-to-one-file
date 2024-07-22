@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+repo_to_one_file/__init__.py
+repo_to_one_file/__main__.py
+repo_to_one_file.egg-info/PKG-INFO
+repo_to_one_file.egg-info/SOURCES.txt
+repo_to_one_file.egg-info/dependency_links.txt
+repo_to_one_file.egg-info/entry_points.txt
+repo_to_one_file.egg-info/top_level.txt
+tests/test_repo_to_one_file.py
