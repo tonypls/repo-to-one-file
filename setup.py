@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="repo-to-one-file",
-    version="0.1.1",
+    version="1.0.0",
     author="tonypls",
     author_email="tony@appy.co.nz",
     description="A tool to consolidate repository files into a single file",

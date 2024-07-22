@@ -1,6 +1,6 @@
 from .__main__ import create_markdown, generate_directory_structure
 
-__version__ = "0.1.1"
+__version__ = "1.0.0"
 __all__ = ['create_markdown', 'generate_directory_structure']
 
 """
