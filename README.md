@@ -13,6 +13,14 @@ repo-to-one-file is a Python tool that consolidates repository files into a sing
 
 ## Installation
 
+Using pip:
+
+```bash
+pip install repo-to-one-file
+```
+
+or
+
 You can install repo-to-one-file directly from GitHub:
 
 ```bash
