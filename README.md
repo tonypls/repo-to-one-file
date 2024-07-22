@@ -1,4 +1,3 @@
-````markdown
 # repo-to-one-file
 
 repo-to-one-file is a Python tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.
@@ -19,6 +18,7 @@ You can install repo-to-one-file directly from GitHub:
 ```bash
 pip install git+https://github.com/tonypls/repo-to-one-file.git
 ```
+
 ````
 
 For development, clone the repository and install in editable mode:
@@ -109,6 +109,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project was inspired by the need to provide concise codebase overviews for large language models.
 - Thanks to all contributors and users of this tool.
 
-```
-
-```
+````
