@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: repo-to-one-file
-Version: 1.0.2
+Version: 1.0.3
 Summary: A tool to consolidate repository files into a single file
 Home-page: https://github.com/tonypls/repo-to-one-file
 Author: tonypls
