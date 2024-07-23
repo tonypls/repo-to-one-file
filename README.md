@@ -1,6 +1,10 @@
 # repo-to-one-file
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub Repo stars](https://img.shields.io/github/stars/tonypls/repo-to-one-file?style=badge)
+
 repo-to-one-file is a Python tool that consolidates repository files into a single Markdown file. It's designed to create a comprehensive overview of a codebase, which can be particularly useful for documentation or as context for large language models.
+
+[Check out the repo here, please star <3](https://github.com/tonypls/repo-to-one-file)
 
 ## Features
 
